@@ -1046,7 +1046,7 @@ msgstr "Criar a Predefinição:"
 
 #: unit2.rsimportpresets
 msgid "Import Presets"
-msgstr "Importar uma Predefinições"
+msgstr "Importar as Predefinições"
 
 #: unit2.rslabelmustbeunique
 msgid "Label must be unique."
