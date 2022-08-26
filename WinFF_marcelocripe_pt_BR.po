@@ -1079,7 +1079,7 @@ msgstr "Colaboradores do inicializador"
 #: unit3.rstranslators
 msgid "Translators:"
 msgstr "Tradutores Voluntários do Idioma Português do Brasil:\n- Arlindo "
-"Saraiva Pereira Junior <nighto@nighto.net> em 2008-2009.\n- Hriostat, "
+"Saraiva Pereira Junior <nighto@nighto.net> em 2008-2009.\n- Hriostat em "
 "2014.\n- marcelocripe <marcelocripe@gmail.com> em 2022."
 
 #: unit4.rspriorityhigh
