@@ -1074,7 +1074,7 @@ msgstr "Você tem que informar um nome."
 
 #: unit3.rslaunchpadcontrib
 msgid "Launchpad contributors"
-msgstr "Colaboradores do inicializador"
+msgstr "Colaboradores da plataforma de lançamento"
 
 #: unit3.rstranslators
 msgid "Translators:"
