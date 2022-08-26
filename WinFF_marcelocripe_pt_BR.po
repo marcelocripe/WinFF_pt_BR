@@ -249,7 +249,7 @@ msgstr "Escolher quais predefinições serão exportadas:"
 #: tfrmmain.audbitrate.hint
 msgctxt "TFRMMAIN.AUDBITRATE.HINT"
 msgid "(<integer>) the target kilobits/second that the stream should use"
-msgstr "(<integer>) a taxa em Kb/s a qual o fluxo deve utilizar"
+msgstr "(<integer>) a taxa em Kb/s a qual deve ser utilizada no fluxo"
 
 #: tfrmmain.audchannels.hint
 msgid "(<integer>) number of audio channels"
@@ -718,7 +718,7 @@ msgstr "Vídeo"
 #: tfrmmain.vidbitrate.hint
 msgctxt "TFRMMAIN.VIDBITRATE.HINT"
 msgid "(<integer>) the target kilobits/second that the stream should use"
-msgstr "(<integer>) taxa em Kb/s a qual o fluxo deve utilizar"
+msgstr "(<integer>) a taxa em Kb/s a qual deve ser utilizada no fluxo"
 
 #: tfrmmain.vidframerate.hint
 msgid "(<real> or <integer>) number of frames per second"
@@ -962,7 +962,7 @@ msgstr "O arquivo de predefinições não é válido"
 
 #: unit1.rsnamemustbeallpha
 msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
-msgstr "O nome deve ser alfanumérico (a-z,A-Z,0-9)"
+msgstr "O nome tem que ser alfanumérico (a-z,A-Z,0-9)"
 
 #: unit1.rspleaseadd1file
 msgid "Please add at least 1 file to convert"
@@ -1050,7 +1050,7 @@ msgstr "Importar uma Predefinições"
 
 #: unit2.rslabelmustbeunique
 msgid "Label must be unique."
-msgstr "O rótulo deve ser único"
+msgstr "O rótulo tem que ser único"
 
 #: unit2.rsremovepreset
 msgid "Remove Preset:"
