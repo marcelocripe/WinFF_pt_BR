@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: WinFF 1.0\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
 "POT-Creation-Date: 2014-02-15 11:14+0100\n"
-"PO-Revision-Date: 2022-08-26 06:06-0300\n"
+"PO-Revision-Date: 2022-08-27 23:57-0300\n"
 "Last-Translator: marcelocripe <marcelocripe@gmail.com>, 2022\n"
 "Language-Team: pt_BR \n"
 "Language: pt_BR \n"
@@ -222,7 +222,7 @@ msgstr "Importar uma Predefinição"
 
 #: tfrmeditpresets.pnltop.caption
 msgid "pnlTop"
-msgstr "pnlTop"
+msgstr "pnlSuperior"
 
 #: tfrmeditpresets.savedialog1.title
 msgid "Export a Preset"
@@ -290,7 +290,7 @@ msgstr "Opções"
 
 #: tfrmmain.btnoptions.hint
 msgid "Open/close the additional options window"
-msgstr "Abrir/fechar a janela de opções adicionais"
+msgstr "Abrir ou fechar a janela de opções adicionais"
 
 #: tfrmmain.btnplay.caption
 msgid "Play"
@@ -326,11 +326,11 @@ msgstr "O dispositivo ou o tipo de arquivo de vídeo deve ser convertido para"
 
 #: tfrmmain.cbleft.caption
 msgid "90 Left"
-msgstr "90 Esquerda"
+msgstr "90° Esquerda"
 
 #: tfrmmain.cbleftflip.caption
 msgid "90 Left + Vertical Flip"
-msgstr "90 Esquerda + Virar Vertical"
+msgstr "90° Esquerda + Inversão Vertical"
 
 #: tfrmmain.cboutputpath.caption
 msgctxt "TFRMMAIN.CBOUTPUTPATH.CAPTION"
@@ -339,11 +339,11 @@ msgstr "Utilizar a Pasta de Origem"
 
 #: tfrmmain.cbright.caption
 msgid "90 Right"
-msgstr ""
+msgstr "90° Direita"
 
 #: tfrmmain.cbrightflip.caption
 msgid "90 Right + Vertical Flip"
-msgstr "90 Direita"
+msgstr "90° Direita + Inversão Vertical"
 
 #: tfrmmain.cbx2pass.caption
 msgid "2 pass"
@@ -488,7 +488,7 @@ msgstr "Ir para"
 
 #: tfrmmain.label23.caption
 msgid "Time to Record"
-msgstr "Tempo para Gravar"
+msgstr "Duração da Gravação"
 
 #: tfrmmain.label24.caption
 msgid "Hours / Minutes / Seconds"
@@ -496,15 +496,15 @@ msgstr "Horas / Minutos / Segundos"
 
 #: tfrmmain.label3.caption
 msgid "Additional Command Line Parameters"
-msgstr "Parâmetros de Linha de Comando Adicionais"
+msgstr "Parâmetros Adicionais da Linha de Comando"
 
 #: tfrmmain.label5.caption
 msgid "1st Pass"
-msgstr "1ª passagem"
+msgstr "1ª Etapa"
 
 #: tfrmmain.label6.caption
 msgid "2nd Pass"
-msgstr "2ª Passagem"
+msgstr "2ª Etapa"
 
 #: tfrmmain.label7.caption
 msgid "Audio Bitrate"
@@ -532,7 +532,7 @@ msgstr "Cancelar as Alterações"
 
 #: tfrmmain.lblcropbottom.caption
 msgid "Bottom"
-msgstr "Embaixo"
+msgstr "Inferior"
 
 #: tfrmmain.lblcropleft.caption
 msgid "Left"
@@ -544,7 +544,7 @@ msgstr "Direita"
 
 #: tfrmmain.lblcroptop.caption
 msgid "Top"
-msgstr "Em cima"
+msgstr "Superior"
 
 #: tfrmmain.lblframerate.caption
 msgid "Frame Rate"
@@ -552,7 +552,7 @@ msgstr "Taxa de Quadros"
 
 #: tfrmmain.lblrotate.caption
 msgid "Rotation"
-msgstr "rotação"
+msgstr "Rotação"
 
 #: tfrmmain.lblsavechanges.caption
 msgid "Apply Changes"
@@ -565,7 +565,7 @@ msgstr "Clique aqui para aplicar as alterações das configurações à "
 
 #: tfrmmain.lblvideobitrate.caption
 msgid "Video Bitrate"
-msgstr "Taxa Bits do Vídeo"
+msgstr "Taxa de Bits do Vídeo"
 
 #: tfrmmain.lblvideosize.caption
 msgid "Video Size"
@@ -627,7 +627,7 @@ msgstr "Predefinições"
 
 #: tfrmmain.mitrestoredefaults.caption
 msgid "Restore Defaults"
-msgstr "Restaurar Padrões"
+msgstr "Restaurar os Padrões"
 
 #: tfrmmain.mitsaveoptions.caption
 msgid "Save Options to Preset"
@@ -644,7 +644,7 @@ msgstr "Opções Adicionais"
 
 #: tfrmmain.mitshutdownonfinish.caption
 msgid "Shutdown on Finish"
-msgstr "Desligar ao Finalizar"
+msgstr "Desligar o Computador ao Finalizar"
 
 #: tfrmmain.mitviewmode.caption
 msgid "Detailed View"
@@ -652,7 +652,7 @@ msgstr "Visualização Detalhada"
 
 #: tfrmmain.mitwinff.caption
 msgid "WinFF Website"
-msgstr "Página eletrônica do WinFF"
+msgstr "Página Eletrônica do WinFF"
 
 #: tfrmmain.mnuedit.caption
 msgid "Edit"
@@ -693,7 +693,7 @@ msgstr "Áudio"
 #: tfrmmain.tabsheet3.caption
 msgctxt "TFRMMAIN.TABSHEET3.CAPTION"
 msgid "Crop"
-msgstr "Cortar"
+msgstr "Recortar"
 
 #: tfrmmain.tabsheet4.caption
 msgctxt "TFRMMAIN.TABSHEET4.CAPTION"
@@ -812,7 +812,7 @@ msgstr "Ativar Várias Predefinições na Lista de Arquivos "
 #: tfrmpreferences.cbrememberlastdir.caption
 msgctxt "TFRMPREFERENCES.CBREMEMBERLASTDIR.CAPTION"
 msgid "Remember Last Used Directory"
-msgstr "Lembrar o Último Diretório Utilizado"
+msgstr "Lembrar a Última Pasta Utilizada"
 
 #: tfrmpreferences.cbthreads.caption
 msgctxt "TFRMPREFERENCES.CBTHREADS.CAPTION"
@@ -841,7 +841,7 @@ msgstr "Comando para executar no início do programa"
 #: tfrmpreferences.lbldefaultdir.caption
 msgctxt "TFRMPREFERENCES.LBLDEFAULTDIR.CAPTION"
 msgid "Default Destination Directory:"
-msgstr "Diretório do Destino Padrão:"
+msgstr "Pasta de Destino Padrão:"
 
 #: tfrmpreferences.lbllinffmpegpath.caption
 #, fuzzy
@@ -1013,7 +1013,7 @@ msgstr "Restaurar as predefinições e as preferências para os padrões?"
 
 #: unit1.rsselectdirectory
 msgid "Select Directory"
-msgstr "Selecionar um Diretório"
+msgstr "Selecionar uma Pasta"
 
 #: unit1.rsselectpresetfile
 msgid "Select Preset File"
