@@ -306,11 +306,12 @@ msgstr ""
 
 #: tfrmmain.btnpreview.caption
 msgid "Preview"
-msgstr "Visualização"
+msgstr "Visualizar"
 
 #: tfrmmain.btnpreview.hint
 msgid "Preview using the output settings"
-msgstr "Visualizar o arquivo selecionado utilizando as configurações de saída"
+msgstr "Visualizar o arquivo selecionado utilizando as configurações do perfil de saída"
+
 
 #: tfrmmain.btnremove.caption
 msgid "Remove"
