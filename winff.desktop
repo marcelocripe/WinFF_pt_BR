@@ -1,0 +1,253 @@
+[Desktop Entry]
+Categories=AudioVideo;AudioVideoEditing;GTK;
+Exec=winff %f
+Icon=winff
+Version=1.0
+MimeType=application/winff;
+Terminal=false
+Type=Application
+
+Name=WinFF
+Name[am]=ዊንኤፍ.ኤፍ
+Name[bn]=উইনএফএফ
+Name[de]=Videokonverter »WinFF«
+Name[gu]=વિનએફએફ
+Name[hi]=विनएफएफ
+Name[km]=វីនអេហ្វ
+Name[pt_BR]=Conversor de Multimídia WinFF
+Name[sr]=ВинФФ
+Name[ur]=ﻒﯾﺍ ﻒﯾﺍ ﻥﻭ
+Name[zh_CN]=赢FF
+Name[zh_TW]=贏FF
+
+GenericName=Video converter
+GenericName[af]=Video wisselaar
+GenericName[am]=ቪዲዮ መቀየሪያ
+GenericName[ar]=ﻮﻳﺪﻴﻔﻟﺍ ﻝﻮﺤﻣ
+GenericName[be]=Канвэртар відэа
+GenericName[bg]=Видео конвертор
+GenericName[bn]=ভিডিও রুপান্তরক
+GenericName[bs]=Video konverter
+GenericName[ca]=Convertidor de vídeo
+GenericName[cs]=Video konvertor
+GenericName[cy]=Trawsnewidydd fideo
+GenericName[da]=Video konverter
+GenericName[de]=Videokonverter
+GenericName[el]=Μετατροπέας βίντεο
+GenericName[en]=Video converter
+GenericName[eo]=Video konvertilo
+GenericName[es]=Convertidor de video
+GenericName[et]=Videoteisendaja
+GenericName[eu]=Bideo bihurgailua
+GenericName[fa]=ﻮﺋﺪﯾﻭ ﻝﺪﺒﻣ
+GenericName[fi]=Videon muunnin
+GenericName[fr]=Convertisseur de vidéos
+GenericName[fr_BE]=Convertisseur de vidéos
+GenericName[fy]=Fideo omsetter
+GenericName[ga]=Tiontaire físeáin
+GenericName[gd]=Tionndadh bhidio
+GenericName[gl]=Conversor de vídeo
+GenericName[gu]=વિડિઓ કન્વર્ટર
+GenericName[ha]=Mai sauya bidiyo
+GenericName[haw]=Mea hoʻololi wikiō
+GenericName[he]=ואדיו ריממ
+GenericName[hi]=वीडियो कनवर्टर
+GenericName[hr]=Video pretvarač
+GenericName[ht]=Konvètisè videyo
+GenericName[hu]=Videó konvertáló
+GenericName[hy]=Վիդեո փոխարկիչ
+GenericName[id]=Alat konversi video
+GenericName[is]=Vídeóbreytir
+GenericName[it]=Convertitore video
+GenericName[ja]=ビデオコンバーター
+GenericName[jv]=Konverter video
+GenericName[ka]=Ვიდეო კონვერტორი
+GenericName[kk]=Бейне түрлендіргіш
+GenericName[km]=កម្មវិធីបម្លែងវីដេអូ
+GenericName[kn]=ವೀಡಿಯೊ ಪರಿವರ್ತಕ
+GenericName[ko]=비디오 변환기
+GenericName[ku]=Veguherkera vîdyoyê
+GenericName[ky]=Видео конвертер
+GenericName[lb]=Video Converter
+GenericName[lo]=ແປງວິດີໂອ
+GenericName[lt]=Vaizdo keitiklis
+GenericName[lv]=Video pārveidotājs
+GenericName[mg]=Video mpanova
+GenericName[mi]=Kaitahuri ataata
+GenericName[mk]=Видео конвертор
+GenericName[ml]=വീഡിയോ പരിവർത്തനം ചെയ്യുന്നത്
+GenericName[mn]=Видео хөрвүүлэгч
+GenericName[mr]=व्हिडिओ कनवर्टर
+GenericName[ms]=Penukar video
+GenericName[mt]=Konvertitur tal-vidjo
+GenericName[my]=ဗီဒီယိုပြောင်းစက်
+GenericName[nb]=Video-konverterer
+GenericName[ne]=भिडियो कनवर्टर
+GenericName[nl]=Video converteerder
+GenericName[ny]=Video Converter
+GenericName[or]=ଭିଡିଓ କନଭର୍ଟର |
+GenericName[pa]=ਵੀਡੀਓ ਕਨਵਰਟਰ
+GenericName[pl]=Konwerter wideo
+GenericName[ps]=ﺮټﺭﻮﻨﮐ ﻮﯾډﯾﻭ ﺩ
+GenericName[pt]=Conversor de vídeo
+GenericName[pt_BR]=Conversor de Áudio e Vídeo
+GenericName[ro]=Convertor Video
+GenericName[ru]=Видео конвертер
+GenericName[rw]=Guhindura amashusho
+GenericName[sd]=ﺮٽﺭﻮﻨڪ ﻮﻳڊﻭ
+GenericName[si]=වීඩියෝ පරිවර්තකය
+GenericName[sk]=Video konvertor
+GenericName[sl]=Video pretvornik
+GenericName[sm]=Vitio liliu
+GenericName[sn]=Vhidhiyo converter
+GenericName[so]=Video-gale
+GenericName[sq]=Konvertues video
+GenericName[sr]=Видео конвертер
+GenericName[sv]=Videoomvandlare
+GenericName[sw]=Kigeuzi video
+GenericName[ta]=வீடியோ மாற்றி
+GenericName[te]=వీడియో కన్వర్టర్
+GenericName[tg]=Табдилдиҳандаи видео
+GenericName[th]=ตัวแปลงวิดีโอ
+GenericName[tk]=Wideo öwrüji
+GenericName[tr]=Video dönüştürücü
+GenericName[tt]=Видео конвертер
+GenericName[ug]=ﭺﯘﻏﺭﯗﺪﻧﻼ﻿ﻳﺎﺋ ﻦﯩﺳ
+GenericName[uk]=Відео конвертер
+GenericName[ur]=ﺮﭨﺭﻮﻨﮐ ﻮﯾﮉﯾﻭ
+GenericName[uz]=Video konvertori
+GenericName[vi]=Chuyển đổi video
+GenericName[xh]=Isiguquli sevidiyo
+GenericName[yi]=רעטרעוונאַק אעדיוו
+GenericName[zh_CN]=视频转换器
+GenericName[zh_TW]=視頻轉換器
+
+Comment=GUI for ffmpeg or avconv
+Comment[af]=GUI vir ffmpeg of avconv
+Comment[am]=GUI ለ ffmpeg ወይም avconv
+Comment[ar]=avconv ﻭﺃ ffmpeg ـﻟ ﺔﻴﻣﻮﺳﺮﻟﺍ ﻡﺪﺨﺘﺴﻤﻟﺍ ﺔﻬﺟﺍﻭ
+Comment[be]=Графічны інтэрфейс для ffmpeg або avconv
+Comment[bg]=GUI за ffmpeg или avconv
+Comment[bn]=ffmpeg বা avconv-এর জন্য GUI
+Comment[bs]=GUI za ffmpeg ili avconv
+Comment[ca]=GUI per a ffmpeg o avconv
+Comment[ceb]=GUI para sa ffmpeg o avconv
+Comment[co]=GUI per ffmpeg o avconv
+Comment[cs]=GUI pro ffmpeg nebo avconv
+Comment[cy]=GUI ar gyfer ffmpeg neu avconv
+Comment[da]=GUI til ffmpeg eller avconv
+Comment[de]=GUI für ffmpeg oder avconv
+Comment[el]=GUI για ffmpeg ή avconv
+Comment[eo]=GUI por ffmpeg aŭ avconv
+Comment[es]=GUI para ffmpeg o avconv
+Comment[et]=GUI ffmpeg või avconv jaoks
+Comment[eu]=ffmpeg edo avconv for GUI
+Comment[fa]=avconv ﺎﯾ ffmpeg ﯼﺍﺮﺑ ﯽﮑﯿﻓﺍﺮﮔ ﯼﺮﺑﺭﺎﮐ ﻂﺑﺍﺭ
+Comment[fi]=GUI for ffmpeg tai avconv
+Comment[fil]=GUI para sa ffmpeg o avconv
+Comment[fr]=Interface graphique pour ffmpeg ou avconv
+Comment[fr_BE]=Interface graphique pour ffmpeg ou avconv
+Comment[fy]=GUI foar ffmpeg of avconv
+Comment[ga]=GUI le haghaidh ffmpeg nó avconv
+Comment[gd]=GUI airson ffmpeg no avconv
+Comment[gl]=GUI para ffmpeg ou avconv
+Comment[gu]=ffmpeg અથવા avconv માટે GUI
+Comment[ha]=GUI don ffmpeg ko avconv
+Comment[haw]=GUI no ffmpeg a i ʻole avconv
+Comment[he]=GUI רובע ffmpeg וא avconv
+Comment[hi]=Ffmpeg या avconv . के लिए GUI
+Comment[hr]=GUI za ffmpeg ili avconv
+Comment[ht]=GUI pou ffmpeg oswa avconv
+Comment[hu]=GUI az ffmpeg vagy avconv számára
+Comment[hy]=GUI ffmpeg-ի կամ avconv-ի համար
+Comment[id]=GUI untuk ffmpeg atau avconv
+Comment[is]=GUI fyrir ffmpeg eða avconv
+Comment[it]=GUI per ffmpeg o avconv
+Comment[ja]=ffmpegまたはavconvのグラフィカルユーザーインターフェイス
+Comment[jv]=GUI kanggo ffmpeg utawa avconv
+Comment[ka]=GUI ffmpeg ან avconv-სთვის
+Comment[kk]=ffmpeg немесе avconv үшін GUI
+Comment[km]=GUI សម្រាប់ ffmpeg ឬ avconv
+Comment[kn]=ffmpeg ಅಥವಾ avconv ಗಾಗಿ GUI
+Comment[ko]=ffmpeg 또는 avconv용 GUI
+Comment[ku]=GUI ji bo ffmpeg an avconv
+Comment[ky]=ffmpeg же avconv үчүн GUI
+Comment[lb]=GUI fir ffmpeg oder avconv
+Comment[lo]=GUI ສໍາລັບ ffmpeg ຫຼື avconv
+Comment[lt]=GUI, skirta ffmpeg arba avconv
+Comment[lv]=GUI priekš ffmpeg vai avconv
+Comment[mg]=GUI ho an'ny ffmpeg na avconv
+Comment[mi]=GUI mo ffmpeg avconv ranei
+Comment[mk]=GUI за ffmpeg или avconv
+Comment[ml]=ffmpeg അല്ലെങ്കിൽ avconv-നുള്ള GUI
+Comment[mn]=Ffmpeg эсвэл avconv-д зориулсан GUI
+Comment[mr]=ffmpeg किंवा avconv साठी GUI
+Comment[ms]=GUI untuk ffmpeg atau avconv
+Comment[mt]=GUI għal ffmpeg jew avconv
+Comment[my]=ffmpeg သို့မဟုတ် avconv အတွက် GUI
+Comment[nb]=GUI for ffmpeg eller avconv
+Comment[ne]=ffmpeg वा avconv को लागि GUI
+Comment[nl]=GUI voor ffmpeg of avconv
+Comment[ny]=GUI ya ffmpeg kapena avconv
+Comment[or]=Ffmpeg କିମ୍ବା avconv ପାଇଁ GUI |
+Comment[pa]=ffmpeg ਜਾਂ avconv ਲਈ GUI
+Comment[pl]=GUI dla ffmpeg lub avconv
+Comment[ps]=GUI ﺩ ffmpeg ﺎﯾ avconv ﻩﺭﺎﭙﻟ
+Comment[pt]=Interface gráfico para o ffmpeg ou avconv
+Comment[pt_BR]=É uma interface gráfica para o ffmpeg ou avconv que serve para converter áudio e vídeo para vários formatos
+Comment[ro]=GUI pentru ffmpeg sau avconv
+Comment[ru]=Графический интерфейс для ffmpeg или avconv
+Comment[rw]=GUI kuri ffmpeg cyangwa avconv
+Comment[sd]=ffmpeg ﺎﻳ avconv ِءﻻ﻿ GUI
+Comment[si]=ffmpeg හෝ avconv සඳහා GUI
+Comment[sk]=GUI pre ffmpeg alebo avconv
+Comment[sl]=GUI za ffmpeg ali avconv
+Comment[sm]=GUI mo ffmpeg poʻo avconv
+Comment[sn]=GUI yeffmpeg kana avconv
+Comment[so]=GUI ee ffmpeg ama avconv
+Comment[sq]=GUI për ffmpeg ose avconv
+Comment[sr]=ГУИ за ффмпег или авцонв
+Comment[st]=GUI bakeng sa ffmpeg kapa avconv
+Comment[su]=GUI pikeun ffmpeg atanapi avconv
+Comment[sv]=GUI för ffmpeg eller avconv
+Comment[sw]=GUI ya ffmpeg au avconv
+Comment[ta]=ffmpeg அல்லது avconv க்கான GUI
+Comment[te]=ffmpeg లేదా avconv కోసం GUI
+Comment[tg]=GUI барои ffmpeg ё avconv
+Comment[th]=GUI สำหรับ ffmpeg หรือ avconv
+Comment[tk]=Ffmpeg ýa-da avconv üçin GUI
+Comment[tr]=ffmpeg veya avconv için GUI
+Comment[tt]=Ffmpeg яки avconv өчен GUI
+Comment[ug]=Ffmpeg ﻰﻛﺎﻳ avconv ﻥﯜﭼﯜﺋ GUI
+Comment[uk]=Графічний інтерфейс для ffmpeg або avconv
+Comment[ur]=ffmpeg ﺎﯾ avconv ﮯﯿﻟ ﮯﮐ GUI
+Comment[uz]=Ffmpeg yoki avconv uchun GUI
+Comment[vi]=GUI cho ffmpeg hoặc avconv
+Comment[xh]=I-GUI yeffmpeg okanye i-avconv
+Comment[yi]=GUI ראַפֿ ffmpeg רעדאָ avconv
+Comment[yo]=GUI fun ffmpeg tabi avconv
+Comment[zh_CN]=ffmpeg 或 avconv 的 GUI
+Comment[zh_TW]=ffmpeg 或 avconv 的 GUI
+
+# Translators: Search terms to find this application. Don't translate the semicolons! The list MUST also end with a semicolon!
+Keywords=avconv;ffmpeg;wrapper;conversion;video;audio;
+Keywords[pt_BR]=avconv;ffmpeg;chamar o ffmpeg;conversão;vídeo;áudio;
+
+# Dear volunteer translators, please add your language abbreviation and name here in alphabetical order.
+#
+# de: Robin.antiX
+# fr: Wallon
+# fr_BE: Wallon
+# it: Spartak77, Daddylibre, madibi
+# da: troc
+# hi: ashish.kujur2
+# hu: savarall
+# or: ashish.kujur2
+# pt_BR: marcelocripe
+# pt: PPC/Zeh
+# ru: Miskler
+# so: cismat10
+# sv: bittin
+# uk: laslo_one
+#
+# Note: Other languages have been translated with internet translators and need to be proofread or corrected by native speakers of the respective languages.
