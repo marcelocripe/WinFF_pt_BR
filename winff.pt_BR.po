@@ -49,7 +49,7 @@ msgstr "Sobre o WinFF"
 #: tfrmabout.lblbellard.caption
 msgctxt "TFRMABOUT.LBLBELLARD.CAPTION"
 msgid "Trademark Fabrice Belllard"
-msgstr "Marca registrada para Fabrice Belllard"
+msgstr "Marca registrada por Fabrice Belllard"
 
 #: tfrmabout.lblcopyright.caption
 msgid "Copyright %s ; Licence: GPL V3+"
@@ -63,7 +63,7 @@ msgstr "FFMpeg"
 #: tfrmabout.lblgevers.caption
 msgctxt "TFRMABOUT.LBLGEVERS.CAPTION"
 msgid "Debian/Ubuntu Packaging by Paul Gevers"
-msgstr "Empacotamento para Debian/Ubuntu feito por Paul Gevers"
+msgstr "Empacotamento para o Debian/Ubuntu por Paul Gevers"
 
 #: tfrmabout.lblgmaq.caption
 msgctxt "TFRMABOUT.LBLGMAQ.CAPTION"
@@ -155,7 +155,7 @@ msgstr "Excluir"
 
 #: tfrmeditpresets.edit1.hint
 msgid "One word, only letters and numbers"
-msgstr "Uma palavra com apenas letras e números"
+msgstr "Apenas uma palavra com letras e números"
 
 #: tfrmeditpresets.edit2.hint
 msgid "Enter a more descriptive name for this preset"
@@ -163,7 +163,7 @@ msgstr "Informe um nome mais descritivo para esta predefinição"
 
 #: tfrmeditpresets.edit3.hint
 msgid "Please don't use -i or output file parameters"
-msgstr "Por favor, não utilize -i ou parâmetros de saída do arquivo"
+msgstr "Por favor, não utilize -i ou os parâmetros de saída do arquivo"
 
 #: tfrmeditpresets.edit4.hint
 msgid "Do not include a dot"
@@ -202,7 +202,7 @@ msgstr "Título da Predefinição"
 #: tfrmeditpresets.label4.caption
 msgid "Preset Command Line Parameters (no -i or output file)"
 msgstr "Parâmetros de linha de comando da predefinição (não utilize -i ou "
-"arquivo de saída)"
+"o arquivo de saída)"
 
 #: tfrmeditpresets.label5.caption
 msgid "Output File Extension (do not include the '.' )"
@@ -244,7 +244,7 @@ msgstr "Exportar"
 
 #: tfrmexport.label1.caption
 msgid "Choose Presets to Export:"
-msgstr "Escolher quais predefinições serão exportadas:"
+msgstr "Escolha quais predefinições serão exportadas:"
 
 #: tfrmmain.audbitrate.hint
 msgctxt "TFRMMAIN.AUDBITRATE.HINT"
@@ -355,7 +355,7 @@ msgid ""
 "for enhanced quality"
 msgstr ""
 "O uso de duas etapas permite que o codificador obtenha informações na "
-"primeira etapa para o melhorar a qualidade"
+"primeira etapa para a melhorar qualidade"
 
 #: tfrmmain.cbxdeinterlace.caption
 msgid "Deinterlace"
@@ -435,7 +435,7 @@ msgstr "<hh:mm:ss> - Ir para esta posição antes de iniciar a conversão"
 #: tfrmmain.edtttrhh.hint
 msgctxt "TFRMMAIN.EDTTTRHH.HINT"
 msgid "<hh:mm:ss> - Stop after this much of video converted"
-msgstr "<hh:mm:ss> - Parar após este tempo de vídeo convertido"
+msgstr "<hh:mm:ss> - Parar após este tempo do vídeo convertido"
 
 #: tfrmmain.edtttrmm.hint
 msgctxt "TFRMMAIN.EDTTTRMM.HINT"
@@ -981,11 +981,11 @@ msgstr ""
 
 #: unit1.rspresethasnoext
 msgid "The preset to import does not have an extension"
-msgstr "A predefinição a ser importada não tem extensão"
+msgstr "A predefinição a ser importada não tem uma extensão"
 
 #: unit1.rspresethasnolabel
 msgid "The preset to import does not have a label"
-msgstr "A predefinição a ser importada não tem um rótulo"
+msgstr "A predefinição a ser importada não tem um título"
 
 #: unit1.rspresettoexport
 msgid "Please select a preset to export"
@@ -993,7 +993,7 @@ msgstr "Por favor, selecione uma predefinição a ser exportada"
 
 #: unit1.rspresetwithlabelexists
 msgid "Preset with label: %s%s%s already exists"
-msgstr "A predefinição com o rótulo: %s%s%s já existe"
+msgstr "A predefinição com o título: %s%s%s já existe"
 
 #: unit1.rspressenter
 msgid "Press Enter to Continue"
@@ -1038,7 +1038,7 @@ msgstr ""
 
 #: unit1.rsthepresethasillegalchars
 msgid "The preset contains illegal characters"
-msgstr "A predefinição contém caracteres não permitidos"
+msgstr "A predefinição contém caracteres que não são permitidos"
 
 #: unit2.rscreatepreset
 msgid "Create Preset:"
@@ -1050,7 +1050,7 @@ msgstr "Importar as Predefinições"
 
 #: unit2.rslabelmustbeunique
 msgid "Label must be unique."
-msgstr "O rótulo tem que ser único"
+msgstr "O título ou o rótulo tem que ser único"
 
 #: unit2.rsremovepreset
 msgid "Remove Preset:"
@@ -1066,7 +1066,7 @@ msgstr "Você tem que informar uma extensão."
 
 #: unit2.rsyoumustenterlabel
 msgid "You must enter a label."
-msgstr "Você tem que informar um rótulo."
+msgstr "Você tem que informar um título."
 
 #: unit2.rsyoumustenternmae
 msgid "You must enter a name."
